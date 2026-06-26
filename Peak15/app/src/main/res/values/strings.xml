@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Peak15</string>
+    <string name="app_description">15-Day Performance Optimization Program</string>
+
+    <!-- Screens -->
+    <string name="screen_dashboard">Today</string>
+    <string name="screen_roadmap">Program</string>
+    <string name="screen_pelvic_floor">Pelvic Floor Trainer</string>
+    <string name="screen_fitness">Workouts</string>
+    <string name="screen_cardio">Cardio</string>
+    <string name="screen_nutrition">Nutrition</string>
+    <string name="screen_confidence">Confidence</string>
+    <string name="screen_recovery">Recovery</string>
+    <string name="screen_analytics">Progress</string>
+    <string name="screen_settings">Settings</string>
+
+    <!-- Common actions -->
+    <string name="action_start">Start</string>
+    <string name="action_pause">Pause</string>
+    <string name="action_resume">Resume</string>
+    <string name="action_stop">Stop</string>
+    <string name="action_reset">Reset</string>
+    <string name="action_save">Save</string>
+    <string name="action_cancel">Cancel</string>
+    <string name="action_complete">Complete</string>
+    <string name="action_log">Log</string>
+
+    <!-- Pelvic floor -->
+    <string name="pelvic_contract">CONTRACT</string>
+    <string name="pelvic_release">RELEASE</string>
+    <string name="pelvic_rest">REST</string>
+    <string name="pelvic_ready">READY</string>
+    <string name="pelvic_complete">DONE</string>
+    <string name="pelvic_instruction_contract">Squeeze and lift your pelvic floor</string>
+    <string name="pelvic_instruction_release">Fully let go — open and release</string>
+    <string name="pelvic_instruction_rest">Rest between sets. Breathe.</string>
+
+    <!-- Notifications -->
+    <string name="notif_morning_title">Peak15 Morning Routine</string>
+    <string name="notif_water_title">Hydration Reminder</string>
+    <string name="notif_supplement_title">Evening Supplements</string>
+</resources>
